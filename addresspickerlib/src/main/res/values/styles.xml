@@ -1,0 +1,9 @@
+<resources>
+
+
+    <!--设置tabLayout字体大小-->
+    <style name="MyCustomTabTextAppearance">
+        <item name="android:textSize">17sp</item>
+    </style>
+
+</resources>
