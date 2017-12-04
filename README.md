@@ -9,7 +9,7 @@
    compile 'com.github.ywp0919:AddressPickerLib:1.0.0'
    
 ## 看图片效果可以前往博客地址看是不是朋友需要的效果再决定要不要使用。
-内联方式：This is an [http://blog.csdn.net/qianniyoushouzuo/article/details/78714847](http://blog.csdn.net/qianniyoushouzuo/article/details/78714847).
+[http://blog.csdn.net/qianniyoushouzuo/article/details/78714847](http://blog.csdn.net/qianniyoushouzuo/article/details/78714847).
 
 # 使用方法
 #### 不管是用在popwindow上还是在activity或者fragment里面，都只要直接就在xml文件里面这么用就行了
