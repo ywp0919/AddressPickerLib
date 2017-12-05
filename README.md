@@ -6,7 +6,7 @@
 #### 在project的build.gradle里面这么写   
     maven { url 'https://jitpack.io' }
 #### 然后在app 的build.gradle      
-   compile 'com.github.ywp0919:AddressPickerLib:1.0.0'
+   compile 'com.github.ywp0919:AddressPickerLib:1.0.1'
    
 ## 看图片效果可以前往博客地址看是不是朋友需要的效果再决定要不要使用。
 [http://blog.csdn.net/qianniyoushouzuo/article/details/78714847](http://blog.csdn.net/qianniyoushouzuo/article/details/78714847).
